@@ -1,5 +1,6 @@
 # Intro to JavaScript
 
+
 ## Objectives
 1. Describe the JavaScript language and its many uses in general terms.
 2. Talk about the various versions of JavaScript (_ES5_, _ES2015_, and so on).
